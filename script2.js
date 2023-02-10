@@ -4,7 +4,7 @@ import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.15.0/firebase
 import { getAuth, signInWithEmailAndPassword, createUserWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-auth.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBMHlM1AcIDz8Hqy0Jje6Ha_iZY1LEBsDg",
+  apiKey: "AIzaSyBIrVfBprEbx2-_dPHZNl7eaTGfGAY3PCM",
   authDomain: "tweedl-prod.firebaseapp.com",
   databaseURL: "https://tweedl-prod.firebaseio.com",
   projectId: "tweedl-prod",
